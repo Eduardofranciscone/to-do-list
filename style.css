@@ -102,3 +102,9 @@ img{
         object-fit: contain;
     }
 }
+@media(max-width:403px){
+    .task{
+        text-align: center;
+        font-size: 0.9rem;
+    }
+}
