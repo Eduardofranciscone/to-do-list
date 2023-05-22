@@ -7,4 +7,4 @@
  <ul>
  <h4>Nesta to-do list você possui a opção de colocar a tarefa como concluida ou excluir tarefa</h4>
  <h4>Todas as tarefas ficam salvas no LocalStorage ou seja ao atualizar a página sua tarefa fica salva.</h4>
-  <a href="https://reliable-custard-4e7abe.netlify.app/">Acessar To do list</a>
+  <a href="https://peppy-horse-c558bc.netlify.app/">Acessar To do list</a>
